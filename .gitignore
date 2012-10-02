@@ -1,10 +1,18 @@
 *.class
 
 # Package Files #
-/.metadata
+
 *.jar
 *.war
 *.ear
-/bin
+
+# neatbeans saker #
+
 /Plump/nbproject/private/
 /Host/nbproject/private/
+
+# neatbeans saker #
+
+# Eclipse saker #
+/bin
+/.metadata
