@@ -4,3 +4,6 @@
 *.jar
 *.war
 *.ear
+/bin
+/Plump/nbproject/private/
+/Host/nbproject/private/
